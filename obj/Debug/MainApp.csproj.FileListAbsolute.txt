@@ -1,0 +1,11 @@
+D:\SimpliLearn\Day-20\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\SimpliLearn\Day-20\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\SimpliLearn\Day-20\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\SimpliLearn\Day-20\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\SimpliLearn\Day-20\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\SimpliLearn\Day-20\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\SimpliLearn\Day-20\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Day-20\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Day-20\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\SimpliLearn\Day-20\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\SimpliLearn\Day-20\MainApp\MainApp\obj\Debug\MainApp.pdb
